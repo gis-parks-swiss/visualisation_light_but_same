@@ -105,7 +105,7 @@ function createTrailSymbol(scale, colors) {
 						capType: "ROUND",
 						joinType: "ROUND",
 						width: 4 * scaleFactor,
-						color: colors.fade,
+						color: colors.main,
 					},
 				],
 			},
